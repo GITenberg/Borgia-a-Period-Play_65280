@@ -1,5 +1,8 @@
 _repo: Borgia-a-Period-Play_65280
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65280-h/images/cover.jpg
 creator:
   author:
     agent_name: Field, Michael
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51240
     wikipedia: https://en.wikipedia.org/wiki/Michael_Field_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65280#Borgia-a-Period-Play
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
